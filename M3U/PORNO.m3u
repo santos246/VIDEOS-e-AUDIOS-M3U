@@ -1,5 +1,14 @@
-﻿
+﻿﻿#EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILMES", S/N
+https://www.googleapis.com/drive/v3/files/1NIZWqu5NkbVFFUxaBVaOH8nZHP5RgWmS?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="CATEGORIA🔴", NOME🔴
+LINK🔴
 
 
 #https://www.sleazyneasy.com/
